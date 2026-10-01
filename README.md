@@ -5,7 +5,7 @@
 > ☁️ **專案相關資料與模型檔案可直接存取**：[Google Drive 專案共用資料夾](https://drive.google.com/drive/folders/17T7RgNIsfq-1ENHAtQaOciVt52UlmGBP?usp=drive_link) 
 
 使用方式: 
-1. 請下載environment內的phishing_url_detection_system檔案，並打開https://colab.research.google.com/，將此檔案放入colab。
+1. 請下載environment內的phishing_url_detection_system檔案，並打開[Google Colab](https://colab.research.google.com/)，將此檔案放入colab。
 2. 請將code資料夾的所有程式放入colab記事本左側檔案的content資料夾內。
 3. 可直接看輸出格的內容，也可以從頭執行一次。
 ---
